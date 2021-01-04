@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈坚生的技术博客</title>
+  
+  <subtitle>不积跬步，无以至千里；不积小流，无以成江海。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-01-03T09:31:04.830Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>陈坚生</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021-NewYear-NewMe</title>
+    <link href="http://example.com/2021/01/02/2021-NewYear-NewMe/"/>
+    <id>http://example.com/2021/01/02/2021-NewYear-NewMe/</id>
+    <published>2021-01-02T07:52:29.000Z</published>
+    <updated>2021-01-03T09:31:04.830Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里；不积小流，无以成江海。————《荀子》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2021</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/01/02/hello-world/"/>
+    <id>http://example.com/2021/01/02/hello-world/</id>
+    <published>2021-01-02T07:51:21.879Z</published>
+    <updated>2021-01-03T09:51:40.945Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
