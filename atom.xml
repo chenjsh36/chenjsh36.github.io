@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-13T15:37:15.827Z</updated>
+  <updated>2021-01-13T15:44:28.526Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="http://example.com/2021/01/13/vue-data-collect/"/>
     <id>http://example.com/2021/01/13/vue-data-collect/</id>
     <published>2021-01-13T15:23:17.000Z</published>
-    <updated>2021-01-13T15:37:15.827Z</updated>
+    <updated>2021-01-13T15:44:28.526Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;数据驱动视图&quot;&gt;&lt;a href=&quot;#数据驱动视图&quot; class=&quot;headerlink&quot; title=&quot;数据驱动视图&quot;&gt;&lt;/a&gt;数据驱动视图&lt;/h2&gt;&lt;p&gt;数据驱动视图是 Vue 的特点，即数据变化，视图（页面）跟着变化。&lt;/p&gt;
+    <summary type="html">&lt;h2 id=&quot;1-数据驱动视图&quot;&gt;&lt;a href=&quot;#1-数据驱动视图&quot; class=&quot;headerlink&quot; title=&quot;1 数据驱动视图&quot;&gt;&lt;/a&gt;1 数据驱动视图&lt;/h2&gt;&lt;p&gt;数据驱动视图是 Vue 的特点，即数据变化，视图（页面）跟着变化。&lt;/p&gt;
 &lt;p&gt;抽象成公式即 UI = render(state)，其中 UI 和 state 为用户定义，只有 render 是不变的，Vue 做的事情就是这个 render，监测到 state 变化了，经过一系列加工，最终更新 UI。&lt;/p&gt;</summary>
     
     
